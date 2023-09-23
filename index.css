@@ -103,9 +103,10 @@ font-size: 27px;
 }
 
 
-@media (max-width: 412px) {
+@media (max-width: 500px) {
   body{
-    height: 918px;
+    width: 421px;
+    height: 100vh;
   }
     .container{
         height: 9vh;
@@ -114,9 +115,9 @@ font-size: 27px;
  
     .box{
         color: antiquewhite;
-        font-size: 13px;
+        font-size: 15px;
         margin-top: 19px;
-        margin-right: 31px;
+        margin-right: 47px;
         padding: 5px;
      
         /* padding-bottom: 20px; */
