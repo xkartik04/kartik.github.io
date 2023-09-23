@@ -105,22 +105,17 @@ font-size: 27px;
 
 @media (max-width: 500px) {
   body{
-    /* width: 421px; */
     height: 100vh;
   }
     .container{
-        height: 9vh;
-        /* flex-direction: column; */
+      height: 70px;
+
     }
  
     .box{
         color: antiquewhite;
         font-size: 15px;
         margin-top: 19px;
-        margin-right: 47px;
-        padding: 5px;
-     
-        /* padding-bottom: 20px; */
     }
        
 }
