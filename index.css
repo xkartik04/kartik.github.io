@@ -105,7 +105,7 @@ font-size: 27px;
 
 @media (max-width: 500px) {
   body{
-    width: 421px;
+    /* width: 421px; */
     height: 100vh;
   }
     .container{
