@@ -102,10 +102,10 @@ font-size: 27px;
     
 }
 
-::selection{
+/* ::selection{
     color: aqua;
     background-color: chartreuse;
-}
+} */
 
 @media (max-width: 500px) {
     .container{
